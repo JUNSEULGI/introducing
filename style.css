@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+a {
+  color: black;
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box p {
+  display: block;
+  width: 500px;
+}
+.row h3 {
+  text-align: center;
+}
